@@ -1,3 +1,5 @@
 Initial file 1 text in master branch
 
 additional change to text 1
+
+Change in v2.0
